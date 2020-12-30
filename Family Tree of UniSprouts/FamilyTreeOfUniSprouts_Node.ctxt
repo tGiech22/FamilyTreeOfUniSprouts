@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FamilyTreeOfUniSprouts_Node
+comment1.params=
+comment1.target=FamilyTreeOfUniSprouts_Node()
+comment2.params=n\ gl\ p
+comment2.target=FamilyTreeOfUniSprouts_Node(java.lang.String,\ int,\ FamilyTreeOfUniSprouts_Node)
+comment3.params=
+comment3.target=int\ getGenerationLevel()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=FamilyTreeOfUniSprouts_Node\ getNext()
+comment6.params=
+comment6.target=FamilyTreeOfUniSprouts_Node\ getPrevious()
+comment7.params=
+comment7.target=FamilyTreeOfUniSprouts_Node\ getChildren()
+comment8.params=child
+comment8.target=void\ setChildren(FamilyTreeOfUniSprouts_Node)
+comment9.params=n
+comment9.target=void\ setNext(FamilyTreeOfUniSprouts_Node)
+numComments=10

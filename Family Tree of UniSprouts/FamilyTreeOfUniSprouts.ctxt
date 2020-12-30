@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=FamilyTreeOfUniSprouts
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=person
+comment10.target=FamilyTreeOfUniSprouts_Node\ findParent(FamilyTreeOfUniSprouts_Node)
+comment11.params=person
+comment11.target=FamilyTreeOfUniSprouts_Node\ findGrandParent(FamilyTreeOfUniSprouts_Node)
+comment2.params=n\ person
+comment2.target=FamilyTreeOfUniSprouts_Node\ search(FamilyTreeOfUniSprouts_Node,\ java.lang.String)
+comment3.params=
+comment3.target=void\ buildFamilyTreeOfUniSprouts()
+comment4.params=parent\ child
+comment4.target=void\ placeNodeInFamilyTreeOfUniSprouts(FamilyTreeOfUniSprouts_Node,\ FamilyTreeOfUniSprouts_Node)
+comment5.params=current
+comment5.target=void\ printFamilyTreeOfUniSprouts(FamilyTreeOfUniSprouts_Node)
+comment6.params=name
+comment6.target=void\ printRelatives(java.lang.String)
+comment7.params=children
+comment7.target=void\ getGrandChildren(FamilyTreeOfUniSprouts_Node)
+comment8.params=c\ person
+comment8.target=void\ getCousins(FamilyTreeOfUniSprouts_Node,\ FamilyTreeOfUniSprouts_Node)
+comment9.params=p
+comment9.target=boolean\ hasChildren(FamilyTreeOfUniSprouts_Node)
+numComments=12
